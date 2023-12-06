@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: fleet-management
+  description: Everything related to fleet-management
+  tags:
+    - portal
+spec:
+  owner: team-a
+  domain: intelligent-mobility
